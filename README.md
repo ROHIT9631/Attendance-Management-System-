@@ -1,6 +1,9 @@
-A basic attendance management system coded in Java helping students manage their attendance and provides the following features:
+For the Editing the GUI using Windows builder is suggested. 
+To install Windows Builder
+- Open Eclipse.
+- Open help and click on Install new pplications.
+- coppy the following lionk below and click on final and  follow the instructions.
+- Open help and click on Install new applications.
+- coppy the following link below and click on final and  follow the instructions.
 
-Tracking total lectures and days missed.
-Calculating the attendance in percentage.
-Display warning message if attendance doesn't fulfill attendance critera.
-Calculates and displays number of classes to be attended to fulfill attendance criteria.
+link - [http://download.eclipse.org/windowbuilder/latest/](http://download.eclipse.org/windowbuilder/latest/)
